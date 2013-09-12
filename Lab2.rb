@@ -1,3 +1,7 @@
+#Colin Twaddell
+#Software Eng. Methods and Tools Lab2
+#Github repo URL: https://github.com/twaddell49/Lab2/blob/master/Lab2.rb
+
 # Part1: Hello World
 class HelloWorldClass
     def initialize(name)  #same thing as a constructor in Java
